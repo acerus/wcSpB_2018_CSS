@@ -273,6 +273,11 @@ big {
 	line-height: 1rem;
 }
 
+
+/* SPB 2018 */
+.home #secondary{display: none}
+.home #primary{width: 100%; float: none}
+
 /* Links */
 a {
 	color: #7743c7;
