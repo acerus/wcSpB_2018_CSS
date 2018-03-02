@@ -275,7 +275,7 @@ big {
 
 
 /* SPB 2018 */
-.home #secondary, .home .entry-header{display: none}
+.home #secondary, .home .entry-header, .home .schedule-section, .home #footer-widgets{display: none}
 .home #primary{width: 100%; float: none}
 
 /* Links */
@@ -1742,7 +1742,7 @@ body.admin-bar #tix {
 
 @media screen and (min-width: 880px) {
 	.site-header {
-		padding: 3em 0;
+		padding: 1em 0;
 	}
 
 	hgroup {
@@ -1753,7 +1753,7 @@ body.admin-bar #tix {
 	.site-header .site-navigation {
 		float: right;
 		width: auto;
-		margin-top: 2em;
+		margin-top: 3.1em;
 		margin-right: -.5em;
 		text-align: right;
 	}
