@@ -275,7 +275,7 @@ big {
 
 
 /* SPB 2018 */
-.home #secondary{display: none}
+.home #secondary, .home .entry-header{display: none}
 .home #primary{width: 100%; float: none}
 
 /* Links */
@@ -484,11 +484,11 @@ body {
 
 .site-title a {
 	display: block;
-	width: 126px;
-	height: 126px;
+	width: 150px;
+	height: 150px;
 	background-image: url('https://2018.saintpetersburg.wordcamp.org/files/2018/03/logo.png');
 	background-repeat: no-repeat;
-	background-size: 126px 126px;
+	background-size: 150px 150px;
 }
 
 /* Footer */
