@@ -1,4 +1,4 @@
-/* Remote CSS from https://api.github.com/repos/dmtrmrv/wcmsk2017/contents/style.css */
+
 /**
  * Normalize
  */
@@ -481,7 +481,7 @@ body {
 	display: block;
 	width: 126px;
 	height: 126px;
-	background-image: url('https://2017.moscow.wordcamp.org/files/2017/06/wcmsk-logo-v1.png');
+	background-image: url('https://2018.saintpetersburg.wordcamp.org/files/2018/03/logo.png');
 	background-repeat: no-repeat;
 	background-size: 126px 126px;
 }
