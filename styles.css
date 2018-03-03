@@ -490,6 +490,7 @@ body {
 	background-image: url('https://2018.saintpetersburg.wordcamp.org/files/2018/03/logo150.png');
 	background-repeat: no-repeat;
 	background-size: 150px 150px;
+  border-bottom: 0;
 }
 
 /* Footer */
@@ -945,6 +946,7 @@ img[class*='wp-image-'] {
 	text-align: center;
 	letter-spacing: 1px;
 	text-transform: uppercase;
+  border-bottom: 0;
 }
 
 /* Toggle Hamburger */
