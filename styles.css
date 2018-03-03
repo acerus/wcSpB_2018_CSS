@@ -686,12 +686,8 @@ input[type='submit'].search-submit:focus,
 
 .button-accent-secondary {
 	border: none;
-	color: #fff;
-  background: #ef9ac7;
-  background: -moz-linear-gradient(-45deg, #ef9ac7 0%, #5c52c7 100%);
-  background: -webkit-linear-gradient(-45deg, #ef9ac7 0%,#5c52c7 100%);
-  background: linear-gradient(135deg, #ef9ac7 0%,#5c52c7 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ef9ac7', endColorstr='#5c52c7',GradientType=1 );
+	color: black;
+  background: white;
 }
 
 .button-accent-secondary:hover,
@@ -1391,7 +1387,6 @@ body.admin-bar #tix {
     display: inline-block;
     font-size: 1.5em;
     line-height: 1.1;
-    padding: 10px;
 }
 
 .wcm-hero a:not(.button):not(button):not(
