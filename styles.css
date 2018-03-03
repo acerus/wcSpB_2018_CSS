@@ -1448,7 +1448,7 @@ body.admin-bar #tix {
 	background-color: rgba(88,88,88,0.05);
 }
 
-.wcorg-sponsors h2 {
+.wcm-sponsors h2 {
 	margin-bottom: 1.5rem;
 }
 
@@ -1459,6 +1459,7 @@ body.admin-bar #tix {
 }
 
 .wcorg-sponsor a {
+  border-bottom: 0;
 	display: block;
 }
 .wcorg-sponsor a:hover{border: 0}
@@ -1712,10 +1713,7 @@ position: relative;
   .wcorg-speaker-description p{margin-bottom: 0}
   .wcorg-speaker-description p:last-child{display: none}
   .wcorg-speaker h2{position: absolute;  left: 0;  bottom: 28px;  display: block;  width: 100%;  text-align: left;  font-size: 1.125em;  margin-bottom: 0;}
-
-	.wcorg-sponsors h2 {
-		margin-bottom: 4rem;
-	}
+	.wcorg-sponsors h2 {display: none	}
 
 	.wcorg-sponsor.wcorg-sponsor-empty {
 		display: block;
