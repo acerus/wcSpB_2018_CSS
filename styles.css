@@ -484,11 +484,11 @@ body {
 
 .site-title a {
 	display: block;
-	width: 140px;
-	height: 140px;
+	width: 150px;
+	height: 150px;
 	background-image: url('https://2018.saintpetersburg.wordcamp.org/files/2018/03/logo150.png');
 	background-repeat: no-repeat;
-	background-size: 140px 140px;
+	background-size: 150px 150px;
 }
 
 /* Footer */
