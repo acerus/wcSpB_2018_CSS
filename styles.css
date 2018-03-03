@@ -1721,21 +1721,21 @@ position: relative;
 		display: block;
 	}
 
-	.wcorg-sponsors-platinum .wcorg-sponsor {
+	.wcorg-sponsor-level-platinum .wcorg-sponsor {
 		float: left;
 		width: 31.0043668122%;
 		margin-right: 3.4934497817%;
 		margin-bottom: 1.5rem;
 	}
 
-	.wcorg-sponsors-gold .wcorg-sponsor {
+	.wcorg-sponsor-level-gold .wcorg-sponsor {
 		float: left;
 		width: 22.3799126638%;
 		margin-right: 3.4934497817%;
 		margin-bottom: 1.5rem;
 	}
 
-	.wcorg-sponsors-silver .wcorg-sponsor {
+	.wcorg-sponsor-level-silver .wcorg-sponsor {
 		float: left;
 		width: 13.7554585153%;
 		margin-right: 3.4934497817%;
