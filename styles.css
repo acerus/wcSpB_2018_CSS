@@ -1701,7 +1701,10 @@ body.admin-bar #tix {
 		width: 22.3799126638%;
 		margin-right: 3.4934497817%;
 		margin-bottom: 1.5rem;
+    position: relative;
 	}
+  .wcorg-speaker-description p:last-child{display: none}
+  .wcorg-speaker h2{position: absolute; left: 0; bottom: 0; display: block; width: 100%; text-align: left;}
 
 	.wcm-sponsors h2 {
 		margin-bottom: 4rem;
