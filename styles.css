@@ -1442,7 +1442,7 @@ body.admin-bar #tix {
 	font-weight: bold;
 }
 
-.wcorg-sponsors {
+.wcm-sponsors {
 	padding: 7.5% 0;
 	padding: 7.5% 0 calc(7.5% - 1.5em);
 	background-color: rgba(88,88,88,0.05);
