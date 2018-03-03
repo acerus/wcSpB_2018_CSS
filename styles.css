@@ -701,6 +701,7 @@ background: -webkit-linear-gradient(45deg, #ef9ac7 0%,#5c52c7 100%);
 background: linear-gradient(45deg, #ef9ac7 0%,#5c52c7 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ef9ac7', endColorstr='#5c52c7',GradientType=1 );
 	text-decoration: none;
+  border: 0;
 }
 
 .button-border {
@@ -1441,48 +1442,48 @@ body.admin-bar #tix {
 	font-weight: bold;
 }
 
-.wcm-sponsors {
+.wcorg-sponsors {
 	padding: 7.5% 0;
 	padding: 7.5% 0 calc(7.5% - 1.5em);
 	background-color: rgba(88,88,88,0.05);
 }
 
-.wcm-sponsors h2 {
+.wcorg-sponsors h2 {
 	margin-bottom: 1.5rem;
 }
 
-.wcm-sponsor {
+.wcorg-sponsor {
 	margin-bottom: 1.5em;
 	border: 1px solid rgba(88,88,88,0.15);
 	background-color: #fafafa;
 }
 
-.wcm-sponsor a {
+.wcorg-sponsor a {
 	display: block;
 }
 
-.wcm-sponsor img {
+.wcorg-sponsor img {
 	display: block;
 	width: 100%;
 }
 
-.wcm-sponsor.wcm-sponsor-empty {
+.wcorg-sponsor.wcorg-sponsor-empty {
 	display: none;
 }
 
-.wcm-sponsors-platinum .wcm-sponsor:nth-of-type(3n) {
+.wcorg-sponsors-platinum .wcorg-sponsor:nth-of-type(3n) {
 	margin-right: 0;
 }
 
-.wcm-sponsors-gold .wcm-sponsor:nth-of-type(4n) {
+.wcorg-sponsors-gold .wcorg-sponsor:nth-of-type(4n) {
 	margin-right: 0;
 }
 
-.wcm-sponsors-silver .wcm-sponsor:nth-of-type(6n) {
+.wcorg-sponsors-silver .wcorg-sponsor:nth-of-type(6n) {
 	margin-right: 0;
 }
 
-.wcm-sponsors-bronze .wcm-sponsor:nth-of-type(6n) {
+.wcorg-sponsors-bronze .wcorg-sponsor:nth-of-type(6n) {
 	margin-right: 0;
 }
 
@@ -1712,36 +1713,36 @@ position: relative;
   .wcorg-speaker-description p:last-child{display: none}
   .wcorg-speaker h2{position: absolute;  left: 0;  bottom: 28px;  display: block;  width: 100%;  text-align: left;  font-size: 1.125em;  margin-bottom: 0;}
 
-	.wcm-sponsors h2 {
+	.wcorg-sponsors h2 {
 		margin-bottom: 4rem;
 	}
 
-	.wcm-sponsor.wcm-sponsor-empty {
+	.wcorg-sponsor.wcorg-sponsor-empty {
 		display: block;
 	}
 
-	.wcm-sponsors-platinum .wcm-sponsor {
+	.wcorg-sponsors-platinum .wcorg-sponsor {
 		float: left;
 		width: 31.0043668122%;
 		margin-right: 3.4934497817%;
 		margin-bottom: 1.5rem;
 	}
 
-	.wcm-sponsors-gold .wcm-sponsor {
+	.wcorg-sponsors-gold .wcorg-sponsor {
 		float: left;
 		width: 22.3799126638%;
 		margin-right: 3.4934497817%;
 		margin-bottom: 1.5rem;
 	}
 
-	.wcm-sponsors-silver .wcm-sponsor {
+	.wcorg-sponsors-silver .wcorg-sponsor {
 		float: left;
 		width: 13.7554585153%;
 		margin-right: 3.4934497817%;
 		margin-bottom: 1.5rem;
 	}
 
-	.wcm-sponsors-bronze .wcm-sponsor {
+	.wcorg-sponsors-bronze .wcorg-sponsor {
 		float: left;
 		width: 13.7554585153%;
 		margin-right: 3.4934497817%;
