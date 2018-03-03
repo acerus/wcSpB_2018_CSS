@@ -1387,10 +1387,9 @@ body.admin-bar #tix {
 }
 
 .wcm-hero h2 {
-  background: rgba(0, 0, 0, 0.6);
     color: #fff;
     display: inline-block;
-    font-size: 1.7em;
+    font-size: 1.5em;
     line-height: 1.1;
     padding: 10px;
 }
@@ -1809,7 +1808,7 @@ body.admin-bar #tix {
 
 .wcm-hero,
 .wcm-cta {
-	background-image: url('https://2018.saintpetersburg.wordcamp.org/files/2018/03/spbhero-1.jpg');
+	background-image: url('https://2018.saintpetersburg.wordcamp.org/files/2018/03/spbherobg.jpg');
 }
 
 .wcm-cta {
