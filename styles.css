@@ -280,6 +280,7 @@ big {
 
 /* Links */
 a {
+  border-bottom:1px solid rgba(238, 154, 199, 0.52);
 	color: #7743c7;
 	background-color: transparent;
 	text-decoration: none;
@@ -1701,7 +1702,9 @@ body.admin-bar #tix {
 width: 22.3799126638%;
 margin-right: 3.4934497817%;
 margin-bottom: 1.5rem;
+position: relative;
 	}
+
   .wcorg-speaker-description img{margin-bottom: 30px}
   .wcorg-speaker-description p{margin-bottom: 0}
   .wcorg-speaker-description p:last-child{display: none}
