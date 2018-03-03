@@ -910,7 +910,7 @@ img[class*='wp-image-'] {
 #main:after,
 .site-header:after,
 .site-footer:after,
-.paging-navigation:after {
+.paging-navigation:after, .wcorg-sponsors > div::after {
 	display: table;
 	clear: both;
 	content: '';
@@ -1461,7 +1461,7 @@ body.admin-bar #tix {
 .wcorg-sponsor a {
 	display: block;
 }
-
+.wcorg-sponsor a:hover{border: 0}
 .wcorg-sponsor img {
 	display: block;
   max-height: 206px
