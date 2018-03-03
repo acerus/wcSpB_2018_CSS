@@ -687,21 +687,21 @@ input[type='submit'].search-submit:focus,
 .button-accent-secondary {
 	border: none;
 	color: #fff;
-  background: #5c52c7;
-background: -moz-linear-gradient(-45deg, #5c52c7 0%, #ed76b3 91%, #ef9ac7 100%);
-background: -webkit-linear-gradient(-45deg, #5c52c7 0%,#ed76b3 91%,#ef9ac7 100%);
-background: linear-gradient(135deg, #5c52c7 0%,#ed76b3 91%,#ef9ac7 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5c52c7', endColorstr='#ef9ac7',GradientType=1 );
+  background: #ef9ac7;
+  background: -moz-linear-gradient(-45deg, #ef9ac7 0%, #5c52c7 100%);
+  background: -webkit-linear-gradient(-45deg, #ef9ac7 0%,#5c52c7 100%);
+  background: linear-gradient(135deg, #ef9ac7 0%,#5c52c7 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ef9ac7', endColorstr='#5c52c7',GradientType=1 );
 }
 
 .button-accent-secondary:hover,
 .button-accent-secondary:focus {
 	color: #fff;
-  background: #5c52c7;
-background: -moz-linear-gradient(45deg, #5c52c7 0%, #ed76b3 91%, #ef9ac7 100%);
-background: -webkit-linear-gradient(45deg, #5c52c7 0%,#ed76b3 91%,#ef9ac7 100%);
-background: linear-gradient(45deg, #5c52c7 0%,#ed76b3 91%,#ef9ac7 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5c52c7', endColorstr='#ef9ac7',GradientType=1 );
+  background: #ef9ac7;
+background: -moz-linear-gradient(45deg, #ef9ac7 0%, #5c52c7 100%);
+background: -webkit-linear-gradient(45deg, #ef9ac7 0%,#5c52c7 100%);
+background: linear-gradient(45deg, #ef9ac7 0%,#5c52c7 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ef9ac7', endColorstr='#5c52c7',GradientType=1 );
 	text-decoration: none;
 }
 
@@ -1809,7 +1809,7 @@ body.admin-bar #tix {
 
 .wcm-hero,
 .wcm-cta {
-	background-image: url('https://2018.saintpetersburg.wordcamp.org/files/2018/03/spbhero.jpg');
+	background-image: url('https://2018.saintpetersburg.wordcamp.org/files/2018/03/spbhero-1.jpg');
 }
 
 .wcm-cta {
