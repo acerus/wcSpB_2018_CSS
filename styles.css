@@ -787,7 +787,7 @@ input[type='submit'].search-submit:focus,
 	position: relative;
 	left: 50%;
 	width: 100vw;
-	margin-left: -50vw;
+	margin-left: -50.6vw;
 }
 
 img.alignleft {
@@ -1772,7 +1772,12 @@ body.admin-bar #tix {
 	}
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1280px) and (max-width: 1440px) {
+
+	}
+
+@media screen and (min-width: 1024px) and (max-width: 1280px) {
+  .outset{margin-left: -51vw;}
 	.widget-area {
 		max-width: 100%;
 	}
