@@ -1464,7 +1464,7 @@ body.admin-bar #tix {
 
 .wcorg-sponsor img {
 	display: block;
-	width: 100%;
+  max-height: 206px
 }
 
 .wcorg-sponsor.wcorg-sponsor-empty {
@@ -1723,7 +1723,6 @@ position: relative;
 
 	.wcorg-sponsor-level-platinum .wcorg-sponsor {
 		float: left;
-		width: 31.0043668122%;
 		margin-right: 3.4934497817%;
 		margin-bottom: 1.5rem;
 	}
