@@ -280,7 +280,7 @@ big {
 
 /* Links */
 a {
-  border-bottom:1px solid rgba(238, 154, 199, 0.52);
+  border-bottom:1px solid rgba(69, 77, 193, 0.25);
 	color: #7743c7;
 	background-color: transparent;
 	text-decoration: none;
@@ -290,7 +290,7 @@ a:hover,
 a:active {
 	outline: 0;
 	color: #7743c7;
-	text-decoration: underline;
+border-bottom:1px solid rgba(69, 77, 193, 0.5);
 }
 
 a:focus {
@@ -1705,10 +1705,10 @@ margin-bottom: 1.5rem;
 position: relative;
 	}
 
-  .wcorg-speaker-description img{margin-bottom: 30px}
+  .wcorg-speaker-description img{margin-bottom: 35px}
   .wcorg-speaker-description p{margin-bottom: 0}
   .wcorg-speaker-description p:last-child{display: none}
-  .wcorg-speaker h2{position: absolute;  left: 0;  bottom: 20px;  display: block;  width: 100%;  text-align: left;  font-size: 1.125em;  margin-bottom: 0;}
+  .wcorg-speaker h2{position: absolute;  left: 0;  bottom: 28px;  display: block;  width: 100%;  text-align: left;  font-size: 1.125em;  margin-bottom: 0;}
 
 	.wcm-sponsors h2 {
 		margin-bottom: 4rem;
