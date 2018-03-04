@@ -1429,7 +1429,7 @@ body.admin-bar #tix {
 .wcm-speakers h2 {
 	margin-bottom: 1.5rem;
 }
-
+.single-post .site-content, .single-wcb_speaker .site-content{margin-bottom: 50px}
 .sharedaddy h3.sd-title:before{border: 0 !important}
 .wcm-speaker {
 	margin-bottom: 1.5em;
