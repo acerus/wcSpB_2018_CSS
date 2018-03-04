@@ -276,7 +276,9 @@ big {
 
 /* SPB 2018 */
 .home #primary{width: 100%; float: none}
-.home .schedule-section{display: none}
+.home .schedule-section, .home .entry-header{display: none}
+.home .entry-content{margin-bottom: 0}
+.home .site-footer{padding-top: 0}
 
 /* Links */
 a {
