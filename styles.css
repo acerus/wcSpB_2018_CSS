@@ -1423,6 +1423,7 @@ body.admin-bar #tix {
 	padding: 7.5% 0 calc(7.5% - 1.5em);
 }
 .single-wcb_speaker .speaker-avatar{display: none}
+.single-wcb_speaker .entry-content p:first-of-type{display: none}
 
 .wcm-speakers h2 {
 	margin-bottom: 1.5rem;
