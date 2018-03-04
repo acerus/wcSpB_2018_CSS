@@ -1723,7 +1723,7 @@ margin-right: 3.4934497817%;
 margin-bottom: 1.5rem;
 position: relative;
 	}
-.wcorg-speaker:nth-child(4n+1){margin-right: 0}
+.wcorg-speaker:nth-child(4n){margin-right: 0}
   .wcorg-speaker-description img{margin-bottom: 38px}
   .wcorg-speaker-description p{margin-bottom: 0}
   .wcorg-speaker-description p:last-child{display: none}
