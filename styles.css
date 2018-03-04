@@ -275,8 +275,8 @@ big {
 
 
 /* SPB 2018 */
-.home #secondary, .home .entry-header, .home .schedule-section, .home #footer-widgets{display: none}
 .home #primary{width: 100%; float: none}
+.home .schedule-section{display: none}
 
 /* Links */
 a {
@@ -496,14 +496,17 @@ body {
 /* Footer */
 .site-footer {
 	padding: 1.5em 0;
-	border-top: 1px solid rgba(88,88,88,0.15);
 	color: rgba(88,88,88,0.39);
 	background-color: #fff;
 }
-
+.home .widget_contact_info{display: none}
 .site-footer a {
+	border-bottom: 0;
 	color: rgba(88,88,88,0.39);
 }
+.site-info a:hover{color: #9C69BE}
+
+.site-footer a.button{color: black}
 
 .site-info-generator {
 	display: block;
@@ -1315,7 +1318,8 @@ body.admin-bar #tix {
 .sticky {
 	display: block;
 }
-
+.blog h1 a{border-bottom:0}
+.blog h1 a:hover{color: #6D3DCC}
 .blog .hentry,
 .archive .hentry {
 	margin-bottom: 1.5em;
@@ -1709,10 +1713,10 @@ margin-bottom: 1.5rem;
 position: relative;
 	}
 
-  .wcorg-speaker-description img{margin-bottom: 35px}
+  .wcorg-speaker-description img{margin-bottom: 38px}
   .wcorg-speaker-description p{margin-bottom: 0}
   .wcorg-speaker-description p:last-child{display: none}
-  .wcorg-speaker h2{position: absolute;  left: 0;  bottom: 28px;  display: block;  width: 100%;  text-align: left;  font-size: 1.125em;  margin-bottom: 0;}
+  .wcorg-speaker h2{position: absolute;  left: 0;  bottom: 30px;  display: block;  width: 100%;  text-align: left;  font-size: 1.125em;  margin-bottom: 0;}
 	.wcorg-sponsors h2 {display: none	}
 
 	.wcorg-sponsor.wcorg-sponsor-empty {
@@ -1800,12 +1804,6 @@ position: relative;
 	.wcm-hero h2 {
 		font-size: 48px;
 	}
-}
-
-/* Custom CSS from 2017.moscow.wordcamp.org */
-.blog #post-3 {
-	padding-bottom: 0;
-	border-bottom: 0;
 }
 
 .wcm-hero,
