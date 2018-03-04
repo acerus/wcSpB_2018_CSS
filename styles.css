@@ -300,7 +300,7 @@ a:focus {
 	outline: 5px auto -webkit-focus-ring-color;
 	outline-offset: -2px;
 	color: #7743c7;
-	text-decoration: underline;
+
 }
 
 /* Blockquotes */
@@ -1408,7 +1408,7 @@ body.admin-bar #tix {
   input[type='reset']):not(
   input[type='submit']) {
 	color: #fff;
-	text-decoration: underline;
+
 }
 
 .wcm-why {
@@ -1429,6 +1429,7 @@ body.admin-bar #tix {
 .wcm-speakers h2 {
 	margin-bottom: 1.5rem;
 }
+
 
 .wcm-speaker {
 	margin-bottom: 1.5em;
