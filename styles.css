@@ -507,6 +507,7 @@ body {
 .site-info a:hover{color: #9C69BE}
 
 .site-footer a.button{color: black}
+.site-footer a.button:hover{color: white}
 
 .site-info-generator {
 	display: block;
@@ -923,6 +924,7 @@ img[class*='wp-image-'] {
  * Partials
  */
 /* Primary Menu */
+body:not(.home) .site-header{margin-bottom: 25px}
 .site-header .site-navigation {
 	width: 100%;
 }
@@ -1325,7 +1327,7 @@ body.admin-bar #tix {
 	margin-bottom: 1.5em;
 	border-bottom: 1px solid rgba(88,88,88,0.15);
 }
-
+.blog .post:last-child{border-bottom: 0}
 .blog .hentry p,
 .archive .hentry p {
 	margin-bottom: .75em;
