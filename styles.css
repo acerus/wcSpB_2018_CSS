@@ -1424,13 +1424,13 @@ body.admin-bar #tix {
 }
 .single-wcb_speaker .speaker-avatar{display: none}
 .single-wcb_speaker .entry-content p:first-of-type{display: none}
-.single .nav-previous{    display: inline-block; float: left}
-.single .nav-next{float: right; display: inline-block;}
+.single .nav-previous{    display: inline-block; float: left; max-width: 49%}
+.single .nav-next{float: right; display: inline-block; max-width: 49%}
 .wcm-speakers h2 {
 	margin-bottom: 1.5rem;
 }
 
-
+.sharedaddy h3.sd-title:before{border: 0 !important}
 .wcm-speaker {
 	margin-bottom: 1.5em;
 }
