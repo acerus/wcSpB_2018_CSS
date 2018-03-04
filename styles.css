@@ -1424,7 +1424,8 @@ body.admin-bar #tix {
 }
 .single-wcb_speaker .speaker-avatar{display: none}
 .single-wcb_speaker .entry-content p:first-of-type{display: none}
-
+.single .nav-previous{    display: inline-block; float: left}
+.single .nav-next{float: right; display: inline-block;}
 .wcm-speakers h2 {
 	margin-bottom: 1.5rem;
 }
