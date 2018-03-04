@@ -1204,6 +1204,7 @@ body.admin-bar #tix {
 	margin-bottom: .75em;
 }
 
+
 /**
  * Schedule Special Styles
  */
@@ -1414,7 +1415,8 @@ body.admin-bar #tix {
 	padding: 7.5% 0 calc(7.5% - 1.5em);
 	background-color: rgba(88,88,88,0.05);
 }
-
+.page-slug-speakers .site-content{float: none; width: 100%}
+.page-slug-speakers .widget-area{display: none}
 .wcm-speakers {
 	padding: 7.5% 0;
 	padding: 7.5% 0 calc(7.5% - 1.5em);
