@@ -1525,7 +1525,13 @@ body.admin-bar #tix {
 /**
  * Media Queries
  */
+
+ /*мобилки */
+ @media screen and (max-width: 768px) {
+     .wcm-hero h2{font-size: 2em}
+ }
 @media screen and (min-width: 600px) {
+
 	.site-header .site-navigation {
 		background-color: #fff;
 	}
