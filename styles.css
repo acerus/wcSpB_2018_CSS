@@ -505,6 +505,7 @@ body {
 .home .widget_contact_info{display: none}
 .widget_contact_info iframe{margin-bottom: 20px}
 .widget_contact_info .confit-address, .widget_contact_info .confit-hours{font-size: 14px; margin-bottom: 5px}
+.page-slug-location .widget_contact_info{display: none}
 .site-footer a {
 	border-bottom: 0;
 	color: rgba(88,88,88,0.39);
