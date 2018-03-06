@@ -1634,6 +1634,7 @@ body.admin-bar #tix {
 
 	.not-too-wide {
 		max-width: 600px;
+		text-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
 	}
 
 	.lead {
@@ -1724,7 +1725,7 @@ body.admin-bar #tix {
 
 	.wcm-hero p {
 		font-size: 21px;
-			text-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+
 	}
 
 	.wcm-speakers h2 {
