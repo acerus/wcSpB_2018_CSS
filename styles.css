@@ -1519,6 +1519,8 @@ body.admin-bar #tix {
 
 .wcm-cta h2 {
 	color: #fff;
+	text-shadow: 0 1px 5px rgba(0, 0, 0, 0.48);
+
 }
 
 .wcm-cta p {
