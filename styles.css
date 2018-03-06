@@ -1631,10 +1631,10 @@ body.admin-bar #tix {
 		width: 22.3799126638%;
 		margin-right: 3.4934497817%;
 	}
-
+.wcm-hero .not-too-wide{text-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);}
 	.not-too-wide {
 		max-width: 600px;
-		text-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+		
 	}
 
 	.lead {
