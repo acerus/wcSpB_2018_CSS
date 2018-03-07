@@ -920,7 +920,7 @@ img[class*='wp-image-'] {
 #main:after,
 .site-header:after,
 .site-footer:after,
-.paging-navigation:after, .wcorg-sponsors > div::after {
+.paging-navigation:after, .wcorg-sponsors > div::after, .wcorg-speakers:after {
 	display: table;
 	clear: both;
 	content: '';
@@ -1634,7 +1634,7 @@ body.admin-bar #tix {
 .wcm-hero .not-too-wide{text-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);}
 	.not-too-wide {
 		max-width: 600px;
-		
+
 	}
 
 	.lead {
