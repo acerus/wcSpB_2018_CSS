@@ -1514,9 +1514,10 @@ body.admin-bar #tix {
 	padding: 7.5% 0 calc(7.5% - 1.5em);
 	color: #fff;
 	background-color: #7743c7;
-	background-repeat: no-repeat;
+  background-repeat: no-repeat;
 	background-size: 100%;
 	background-size: cover;
+  background-attachment: fixed;
 }
 
 .wcm-cta h2 {
@@ -1841,7 +1842,7 @@ position: relative;
 
 .wcm-cta {
 	background-position: bottom left;
-	background-image: url('https://2018.saintpetersburg.wordcamp.org/files/2018/03/spb-footer.jpg');
+	background-image: url('https://2018.saintpetersburg.wordcamp.org/files/2018/03/hero-footer.jpg');
 }
 
 #nav-below {
