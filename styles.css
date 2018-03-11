@@ -1517,7 +1517,6 @@ body.admin-bar #tix {
   background-repeat: no-repeat;
 	background-size: 100%;
 	background-size: cover;
-  background-attachment: fixed;
 }
 
 .wcm-cta h2 {
