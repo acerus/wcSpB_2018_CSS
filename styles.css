@@ -283,8 +283,8 @@ big {
 .jetpack_subscription_widget input[type='submit']:hover, .tix-js input[type=submit]:hover{background: #936ad3}
 .page-slug-tickets .wcm-cta .button{display: none}
 .page-slug-tickets .wcm-cta{    padding: 10% 0;    padding: 10% 0 calc(7.5% - 1.5em); height: 300px}
-.page-slug-tickets .tix-submit select{padding: 11px; margin-right: 20px}
-.tix-attendee-form .tix-right select{padding: 8px 5px}
+.page-slug-tickets .tix-submit select{padding: 11px; margin-right: 20px; -webkit-appearance:none;}
+.tix-attendee-form .tix-right select{padding: 8px 5px; -webkit-appearance:none;}
 
 /* Links */
 a {
