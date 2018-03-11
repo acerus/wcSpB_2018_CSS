@@ -279,8 +279,8 @@ big {
 .home .schedule-section, .home .entry-header, .home .jetpack_subscription_widget{display: none}
 .home .entry-content{margin-bottom: 0}
 .home .site-footer{padding-top: 0}
-.jetpack_subscription_widget input[type='submit']{background: #7743c7; color: white; border: none}
-.jetpack_subscription_widget input[type='submit']:hover{background: #936ad3}
+.jetpack_subscription_widget input[type='submit'], .tix-js input[type=submit]{background: #7743c7; color: white; border: none}
+.jetpack_subscription_widget input[type='submit']:hover, .tix-js input[type=submit]:hover{background: #936ad3}
 
 
 /* Links */
@@ -680,8 +680,7 @@ input[type='submit']:focus {
 }
 
 .button-accent,
-input[type='submit'].search-submit,
-#tix input[type=submit] {
+input[type='submit'].search-submit, {
 	border-color: #7743c7;
 	color: #fff;
 	background-color: #7743c7;
