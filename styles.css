@@ -277,6 +277,7 @@ big {
 /* SPB 2018 */
 .page-slug-schedule .entry-content h1{display: none}
 .page-slug-schedule  .wcpt-schedule a{border-bottom: 0}
+.page-slug-schedule  .wcpt-schedule a:hover{color: #9463df}
 .home #primary{width: 100%; float: none}
 .home .schedule-section, .home .entry-header, .home .jetpack_subscription_widget{display: none}
 .home .entry-content{margin-bottom: 0}
@@ -1247,7 +1248,7 @@ body.admin-bar #tix {
 }
 
 .global-session .wcpt-session-speakers a {
-	color: rgba(88,88,88,0.39);
+	color: rgba(88,88,88,0.7);
 	font-weight: normal;
 }
 
@@ -1260,7 +1261,7 @@ body.admin-bar #tix {
 }
 
 .wcpt-session-type-session:after {
-	display: block;
+	display: none;
 	float: left;
 	margin-top: .5em;
 	padding: 2px .75em 3px;
