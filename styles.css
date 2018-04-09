@@ -1246,7 +1246,7 @@ body.admin-bar #tix {
 	background-color: rgba(88,88,88,0.05);
 }
 
-.global-session .wcpt-session-title {
+.global-session .wcpt-session-speakers a {
 	color: rgba(88,88,88,0.39);
 	font-weight: normal;
 }
