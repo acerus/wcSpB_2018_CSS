@@ -276,7 +276,7 @@ big {
 
 /* SPB 2018 */
 .page-slug-schedule .entry-content h1, .session-categories-links{display: none}
-.wcpt-schedule a{border-bottom: 0}
+.wcpt-schedule a{border-bottom: 0 !important}
 .wcpt-schedule a:hover{color: #9463df}
 .home #primary{width: 100%; float: none}
 .home .schedule-section, .home .entry-header, .home .jetpack_subscription_widget{display: none}
